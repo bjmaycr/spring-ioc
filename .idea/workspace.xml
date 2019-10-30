@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ioc/ClassPathXml/ClassPathXmlApplicationContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+            <state relative-caret-position="488">
+              <caret line="74" column="159" selection-start-line="74" selection-start-column="159" selection-end-line="74" selection-end-column="159" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#423#438#0" expanded="true" />
@@ -295,12 +295,20 @@
       <updated>1572312646736</updated>
       <workItem from="1572312650420" duration="15616000" />
       <workItem from="1572354026321" duration="597000" />
-      <workItem from="1572395152027" duration="2253000" />
+      <workItem from="1572395152027" duration="2606000" />
     </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1572397596876</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572397596876</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18466000" />
+    <option name="totallyTimeSpent" value="18819000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -313,9 +321,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24664879" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24664879" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -328,7 +335,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.12970711" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.18854749" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.18854749" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32914925" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -350,6 +357,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/org/xml/sax/InputSource.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -370,8 +381,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ioc/ClassPathXml/ClassPathXmlApplicationContext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="488">
+          <caret line="74" column="159" selection-start-line="74" selection-start-column="159" selection-end-line="74" selection-end-column="159" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#423#438#0" expanded="true" />
